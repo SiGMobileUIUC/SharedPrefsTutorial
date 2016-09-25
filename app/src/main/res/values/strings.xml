@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharePrefTutorial</string>
+    <string name="first_time">First time opening the app!</string>
+    <string name="again">User has opened the app before</string>
+</resources>
